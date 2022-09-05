@@ -6,13 +6,13 @@ Alessio Ragno$^1$, Biagio La Rosa$^1$, and Roberto Capobianco$^{1,2}$
 Official repository for Prototype-based Interpretable Graph Networks
 
 
-Training Vanilla GNNs
+## Training Vanilla GNNs
 `python train_gnns.py datasets=cora seed=1 device_id=0 models=gcn`
 
 
-Training TesNet GNNs
+## Training TesNet GNNs
 `python train_tesgnns.py datasets=cora seed=1 device_id=0 models=gcn`
 
 
-Training ProtoPNet GNNs
+## Training ProtoPNet GNNs
 `python train_protopgnns.py datasets=cora seed=1 device_id=0 models=gcn`
