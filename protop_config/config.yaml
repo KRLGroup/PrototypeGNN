@@ -1,0 +1,10 @@
+defaults:
+  - models: gcn
+  - datasets: bbbp
+hydra:
+  run:
+    dir: outputs_protop/${hydra.job.override_dirname}
+seed: 0
+device_id: 0
+use_pretrained: False
+pretrained_dataset:
