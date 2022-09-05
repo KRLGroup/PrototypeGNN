@@ -1,5 +1,5 @@
 # Prototype-based Interpretable Graph Networks
-Alessio Ragno$^1$, Biagio La Rosa$^1$, and Roberto Capobianco$^{1,2}$
+Alessio Ragno (1), Biagio La Rosa (1), and Roberto Capobianco (1,2)
 1) Dept. of Computer, Control and Management Engineering, Sapienza University of Rome
 2) Sony AI
 
